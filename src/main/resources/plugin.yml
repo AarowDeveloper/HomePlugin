@@ -1,0 +1,7 @@
+name: Homes
+version: BETA-1.0
+main: dev.aarow.home.HomePlugin
+author: Aarow_
+commands:
+  - sethome
+  - home
