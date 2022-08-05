@@ -7,4 +7,8 @@ public abstract class Manager {
     public HomePlugin plugin = HomePlugin.INSTANCE;
 
     public abstract void setup();
+    
+    public Manager(){
+       setup();   
+    }
 }
